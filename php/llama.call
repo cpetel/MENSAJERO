@@ -1,0 +1,5 @@
+Channel: SIP/2510
+MaxRetries: 99
+RetryTime: 60
+Application: Playback
+Data: custom/acordate01

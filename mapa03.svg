@@ -1,0 +1,357 @@
+<?xml version="1.0"?>
+<svg width="430.00000000000006" height="449.99999999999994" xmlns="http://www.w3.org/2000/svg" xmlns:svg="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <!-- Created dinamicaly by DarioSoft -->
+ <g class="layer">
+  <title>.</title>
+  <image x="0" y="0" width="442" height="450" id="base_svg" xlink:href="imagenes/srosa.jpg"/>
+ </g>
+ <g class="layer">
+  <title>26 de Septiembre</title>
+  <path d="m241.57144,343.14285l-30.85716,-31.71429l-15,14.85715l31.14287,31.57144l14.71429,-14.71429l0,-0.00001z" stroke-linecap="square" fill="#ff0000" id="svg_46" opacity="0.25" stroke="#b2b2b2"/>
+ </g>
+ <g class="layer">
+  <title>Aeropuerto</title>
+  <path d="m323,178.28572l0.14285,-5.14287l-1.71429,-4.14285l-15.85712,-1l-0.42859,-10l7.85715,-0.71428l-9.14285,-4.42857l-6.71429,-1.85715l-4.57141,-1.85715l-4.71429,-0.57143l-2.57144,-0.14285l-1.57141,1l-2,4l0.14285,6l-0.42859,18.42857l41.57144,0.42857l-0.00001,0.00001z" stroke-linecap="square" fill="#00ffff" id="svg_16" opacity="0.25" stroke="#b2b2b2"/>
+ </g>
+ <g class="layer">
+  <title>Aeropuerto 1</title>
+  <path d="m320.71429,168.42857l-2,-3.57143l-3.71429,-4.57143l-2,-2l-6.85715,0.42856l-0.42856,9l15,0.71429l0,0.00001z" stroke-linecap="square" fill="#ffff00" id="svg_15" opacity="0.25" stroke="#b2b2b2"/>
+ </g>
+ <g class="layer">
+  <title>Almafuerte</title>
+  <path d="m201,232.14285l7.28572,-5.28571l6,-3l6.71428,-1.28572l0.14285,-16.14285l-19.85713,1l-0.28572,24.71428z" stroke-linecap="square" fill="#ff00ff" id="svg_24" opacity="0.25" stroke="#b2b2b2"/>
+ </g>
+ <g class="layer">
+  <title>Bella Vista</title>
+  <path d="m315.42859,286.14285l0.85712,-15.28571l-35.71426,-0.57144l0.28571,16.57144l34.57144,-0.71429l-0.00001,0z" stroke-linecap="square" fill="#00ff00" id="svg_33" opacity="0.25" stroke="#b2b2b2"/>
+ </g>
+ <g class="layer">
+  <title>Butalo</title>
+  <path d="m176.42857,303.42856l13.85715,-13.42856l6.42856,6.14285l-14.85713,14.14285l-6.57143,-6.42856l1.14285,-0.42859l0,0.00001z" stroke-linecap="square" fill="#00ffff" id="svg_49" opacity="0.25" stroke="#b2b2b2"/>
+ </g>
+ <g class="layer">
+  <title>Butalo 2, 3, Vial 21 y Jardin</title>
+  <path d="m174.42857,303.42859l1.57143,-0.57144l14.28572,-13.42859l-10,-9.42856l-14.57144,13.85715l8.71429,9.57144z" stroke-linecap="square" fill="#00ff00" id="svg_51" opacity="0.25" stroke="#b2b2b2"/>
+ </g>
+ <g class="layer">
+  <title>Centro 1</title>
+  <path d="m32,119l7,-19l11,-13l9,-3l13,0l0,35l-40,0z" fill="#FF0000" id="svg_58" opacity="0.25" stroke="#b2b2b2"/>
+ </g>
+ <g class="layer">
+  <title>Centro 2</title>
+  <path d="m21,149l3,-18l8,-12l40,0l0,30l-51,0z" fill="#ff7f00" id="svg_59" opacity="0.25" stroke="#b2b2b2"/>
+ </g>
+ <g class="layer">
+  <title>Centro 3</title>
+  <path d="m72,118l0,-34l33,0l0,34l-33,0z" fill="#7fff00" id="svg_60" opacity="0.25" stroke="#b2b2b2"/>
+ </g>
+ <g class="layer">
+  <title>Centro 4</title>
+  <path d="m72,149l0,-30l32,0l0,30l-32,0z" fill="#00ffff" id="svg_61" opacity="0.25" stroke="#b2b2b2"/>
+ </g>
+ <g class="layer">
+  <title>Centro 5</title>
+  <path d="m106,118l0,-34l28,0l0,34l-28,0z" fill="#ffff00" id="svg_62" opacity="0.25" stroke="#b2b2b2"/>
+ </g>
+ <g class="layer">
+  <title>Centro 6</title>
+  <path d="m106,149l0,-30l28,0l0,30l-28,0z" fill="#007f7f" id="svg_63" opacity="0.25" stroke="#b2b2b2"/>
+ </g>
+ <g class="layer">
+  <title>Centro 7</title>
+  <path d="m136,117l0,-33l27,0l0,33l-27,0z" fill="#0000ff" id="svg_64" opacity="0.25" stroke="#b2b2b2"/>
+ </g>
+ <g class="layer">
+  <title>Centro 8</title>
+  <path d="m136,149l0,-30l27,0l0,30l-27,0z" fill="#7f003f" id="svg_65" opacity="0.25" stroke="#b2b2b2"/>
+ </g>
+ <g class="layer">
+  <title>Centro Empleados de Comercio</title>
+  <path d="m182.28572,311l14.57143,-15l13.57143,14.57144l-14.57143,14.71426l-13.57143,-14.28571l0,0.00001z" stroke-linecap="square" fill="#ff00ff" id="svg_50" opacity="0.25" stroke="#b2b2b2"/>
+ </g>
+ <g class="layer">
+  <title>Colonia Escalante Sur</title>
+  <path d="m280.42859,305.28571l35.42856,-0.85715l-0.42859,25.42859l-5.14285,13l-8.28571,10.14285l-13.14285,11.28571l-9.99997,7.28568l1.57141,-66.28568z" stroke-linecap="square" fill="#00ff00" id="svg_37" opacity="0.25" stroke="#b2b2b2"/>
+ </g>
+ <g class="layer">
+  <title>Colonos Pampeanos</title>
+  <rect height="11.5" width="35" x="80.71877" y="247.0625" fill="#00ffff" id="svg_74" opacity="0.25" stroke="#b2b2b2"/>
+ </g>
+ <g class="layer">
+  <title>Congreso</title>
+  <path d="m280.85715,304.85715l-0.28571,-17.42859l34.85712,-0.85712l0.14288,17.57141l-34.71429,0.71429l0,0.00001z" stroke-linecap="square" fill="#ffff00" id="svg_34" opacity="0.25" stroke="#b2b2b2"/>
+ </g>
+ <g class="layer">
+  <title>Cuesta del Sur</title>
+  <circle fill="#ff0000" stroke-dasharray="null" stroke-linejoin="null" stroke-linecap="null" cx="296" cy="436" r="7" id="svg_73" opacity="0.25" stroke="#b2b2b2"/>
+ </g>
+ <g class="layer">
+  <title>De Las Artes</title>
+  <rect fill="#7fff00" stroke-linecap="square" x="285" y="3" width="20" height="49" id="svg_1" opacity="0.25" stroke="#b2b2b2"/>
+ </g>
+ <g class="layer">
+  <title>El Faro</title>
+  <path d="m98.85715,324.28574l-15.14286,-15.14288l32.85714,-32.57141l23.71429,25.42856l-41.42857,22.28574l0,-0.00001z" stroke-linecap="square" fill="#ffff00" id="svg_54" opacity="0.25" stroke="#b2b2b2"/>
+ </g>
+ <g class="layer">
+  <title>Escondido</title>
+  <rect height="13.28571" width="30.57143" y="410.85715" x="277.28572" stroke-linecap="square" fill="#00ffff" id="svg_44" opacity="0.25" stroke="#b2b2b2"/>
+ </g>
+ <g class="layer">
+  <title>Esperanza</title>
+  <path d="m355,359l-0.85715,-35.71429l18,0.71429l0.14285,34.85715l-17.28571,0.14285l0.00001,0z" stroke-linecap="square" fill="#ff00ff" id="svg_42" opacity="0.25" stroke="#b2b2b2"/>
+ </g>
+ <g class="layer">
+  <title>Favaloro</title>
+  <path d="m251.28572,348.71429l8.71428,-9.14285l-6.57143,-6.14288l-7.57143,9.28574l5.42857,6l0.00001,-0.00001z" stroke-linecap="square" fill="#ffff00" id="svg_29" opacity="0.25" stroke="#b2b2b2"/>
+ </g>
+ <g class="layer">
+  <title>Fitte</title>
+  <path d="m225.14287,296.71429l-30.14287,-29.71429l1.14285,-0.57144l56.71429,1.14288l-8.14287,10.14285l-19.57141,19l0.00001,0z" stroke-linecap="square" fill="#00ff00" id="svg_27" opacity="0.25" stroke="#b2b2b2"/>
+ </g>
+ <g class="layer">
+  <title>Fonavi 25, 27, 34bis y Pampa</title>
+  <path d="m251.57143,349l25.00002,-23.28571l-1.42859,44.57141l-4.71429,-1.28571l-18.85713,-20l-0.00001,0.00001z" stroke-linecap="square" fill="#ff00ff" id="svg_32" opacity="0.25" stroke="#b2b2b2"/>
+ </g>
+ <g class="layer">
+  <title>Fonavi 41 Los Caldenes</title>
+  <path d="m317.57144,296.57141l18,0.00003l-0.57144,26.85712l-17.28571,0.71429l-0.14285,-27.57144z" stroke-linecap="square" fill="#ff00ff" id="svg_36" opacity="0.25" stroke="#b2b2b2"/>
+ </g>
+ <g class="layer">
+  <title>Fonavi 42</title>
+  <path d="m226.71429,358.57141l-31.57144,-32.28571l-15,16l30.57143,32.71429l16.00002,-16.42859l-0.00001,0.00001z" stroke-linecap="square" fill="#00ff00" id="svg_47" opacity="0.25" stroke="#b2b2b2"/>
+ </g>
+ <g class="layer">
+  <title>Gobernador Salvador Anania</title>
+  <path d="m205.38225,165.28572l-28.05028,2l-0.33197,-23.57144l28.71419,-1.14285l-0.33194,22.71429z" stroke-linecap="square" fill="#7fff00" id="svg_10" opacity="0.25" stroke="#b2b2b2"/>
+ </g>
+ <g class="layer">
+  <title>Inti - Hue</title>
+  <path d="m179.42859,342.85715l-63.7143,63.71429l-59.14286,-58l84,-45.42859l38.85716,39.71429l0,0.00001z" stroke-linecap="square" fill="#00ffff" id="svg_52" opacity="0.25" stroke="#b2b2b2"/>
+ </g>
+ <g class="layer">
+  <title>Los Fresnos</title>
+  <path d="m277.42859,377.28571l8.14285,-5.42856l5.85712,-5.71429l8.57144,-6.71429l7.14285,-7.85712l4.28571,-5.57144l2.28574,-3.42856l2.14285,0.14285l0,36.28571l-9.14285,0.14285l0,10.42859l-28.42859,0.42856l-1.14285,0l0.28574,-12.71429l-0.00001,-0.00001z" stroke-linecap="square" fill="#ff0000" id="svg_43" opacity="0.25" stroke="#b2b2b2"/>
+ </g>
+ <g class="layer">
+  <title>Los Hornos</title>
+  <path d="m83.14286,308.28571l-39.14286,-42.28571l74.57143,-0.28571l6,5.14285l-41.42857,37.42856l0,0.00001z" stroke-linecap="square" fill="#00ffff" id="svg_55" opacity="0.25" stroke="#b2b2b2"/>
+ </g>
+ <g class="layer">
+  <title>Lowo Che</title>
+  <path d="m59,460l-45,-1l-1,-149l101,98l-55,52z" fill="#ff0000" id="svg_57" opacity="0.25" stroke="#b2b2b2"/>
+ </g>
+ <g class="layer">
+  <title>Malvinas Argentinas</title>
+  <rect height="41.28572" width="34" y="48.57143" x="247.71429" stroke-linecap="square" fill="#ffff00" id="svg_2" opacity="0.25" stroke="#b2b2b2"/>
+ </g>
+ <g class="layer">
+  <title>Matadero</title>
+  <rect height="26" width="17.14286" y="270.28569" x="318.00001" stroke-linecap="square" fill="#00ffff" id="svg_35" opacity="0.25" stroke="#b2b2b2"/>
+  <rect height="0.85714" width="1.85714" y="280.57143" x="329.00001" stroke-linecap="square" fill="#00ffff" id="svg_35" opacity="0.25" stroke="#b2b2b2"/>
+ </g>
+ <g class="layer">
+  <title>Nestor Kirchner</title>
+  <path d="m316.28574,360.71429l-0.00003,-17.85715l38.14285,0.85715l-0.14285,15.85715l-37.99997,1.14285z" stroke-linecap="square" fill="#00ffff" id="svg_40" opacity="0.25" stroke="#b2b2b2"/>
+ </g>
+ <g class="layer">
+  <title>Nuestra Señora de Lujan</title>
+  <path d="m253.28572,267.85715l26.85713,0.85715l-0.28571,30.42856l-2.57144,10.71429l-31.57143,-31.71429l7.57144,-10.28571l0.00001,0z" stroke-linecap="square" fill="#ff00ff" id="svg_26" opacity="0.25" stroke="#b2b2b2"/>
+ </g>
+ <g class="layer">
+  <title>Nueva Vista</title>
+  <path d="m179.18749,342.70316l30.90626,32.76559l-27.84375,27l-33.32813,-33.75l30.26561,-26.01559l0.00001,0z" stroke="#000000" fill="#ff7f00" id="svg_75"/>
+ </g>
+ <g class="layer">
+  <title>Obreros de la Construccion</title>
+  <rect height="25.28572" width="44.14286" y="48" x="202.57143" stroke-linecap="square" fill="#56ffff" id="svg_3" opacity="0.25" stroke="#b2b2b2"/>
+ </g>
+ <g class="layer">
+  <title>Parque Industrial</title>
+  <rect transform="rotate(43.0909, 240, 438.5)" height="41.25" width="37.5" y="417.87504" x="221.25002" fill="#00ff7f" id="svg_77" opacity="0.25" stroke="#b2b2b2"/>
+ </g>
+ <g class="layer">
+  <title>Plan 5000</title>
+  <path d="m242.14287,343.85715l-30.85715,31.57141l31.28571,32.28574l32.14287,-31.14285l-32.57143,-32.71429l0,-0.00001z" stroke-linecap="square" fill="#00ffff" id="svg_45" opacity="0.75" stroke-width="2" stroke="#000000"/>
+ </g>
+ <g class="layer">
+  <title>Plan Vial P.S.C.</title>
+  <path d="m315.07034,340.82423l2.60154,-7.64845l0.3164,-10.4414c0,0 16.69925,0.05469 16.69925,0.05469c0,0 -0.31641,18.66797 -0.56253,18.61327c-0.24612,-0.05469 -1.96872,1.00392 -2.21484,0.94922c-0.24613,-0.05469 -16.83982,-1.52733 -16.83982,-1.52733z" stroke-linecap="square" fill="#ffff00" id="svg_38" opacity="0.25" stroke="#b2b2b2"/>
+ </g>
+ <g class="layer">
+  <title>Portal del Sur</title>
+  <rect height="11.5" width="29.5" y="390.5" x="277" fill="#00ffff" id="svg_76" opacity="0.25" stroke="#b2b2b2"/>
+ </g>
+ <g class="layer">
+  <title>Pueblos Originarios</title>
+  <path d="m316.14285,361.71429l38.71429,-1.85715l16.85715,-0.14285l0.14285,18.85715l-55.42859,0.42856l-0.28571,-17.28571l0.00001,0z" stroke-linecap="square" fill="#00ff00" id="svg_41" opacity="0.25" stroke="#b2b2b2"/>
+ </g>
+ <g class="layer">
+  <title>Regazzoli</title>
+  <path d="m250.42857,335.28571l-5.28572,-5.28571l-6.42857,6.71429l5.42857,5.57141l6.28572,-7l0,0.00001z" stroke-linecap="square" fill="#00ff00" id="svg_30" opacity="0.25" stroke="#b2b2b2"/>
+ </g>
+ <g class="layer">
+  <title>Sagrado Corazon de Jesus</title>
+  <path d="m221,163.14287l-14.85722,1.42856l0.00005,-21.71428l15.00003,-1l-0.14285,21.28572l-0.00001,0z" stroke-linecap="square" fill="#ff00ff" id="svg_9" opacity="0.25" stroke="#b2b2b2"/>
+ </g>
+ <g class="layer">
+  <title>San Cayetano</title>
+  <path d="m247.57143,140.85715l-68.14285,2.71428l-1.57143,-31.85714l24.42857,-0.14286l26.42856,0.57143l0.14287,6.28571l18.57143,-0.14286l0.14285,22.57143l0,0.00001z" stroke-linecap="square" fill="#ffff00" id="svg_6" opacity="0.25" stroke="#b2b2b2"/>
+ </g>
+ <g class="layer">
+  <title>Santa Maria de La Pampa</title>
+  <path d="m327.42859,175.28572l-1.00003,-29l22.28574,-0.28572l0.14285,8.85715l9.14285,-0.28572l0,3.14285l-3.85715,-0.14285l-4.85715,5.71429l-21.85712,12l0.00001,0z" stroke-linecap="square" fill="#ff00ff" id="svg_18" opacity="0.25" stroke="#b2b2b2"/>
+ </g>
+ <g class="layer">
+  <title>Sol del Este</title>
+  <path d="m335.95312,342.67767l2.55957,-8.14185l0.31131,-11.11497c0,0 16.4299,0.05822 16.4299,0.05822c0,0 -0.3113,19.87223 -0.55345,19.81401c-0.24216,-0.05823 -1.93697,1.06867 -2.17912,1.01045c-0.24216,-0.05823 -16.56821,-1.62586 -16.56821,-1.62586z" stroke-linecap="square" fill="#ff0000" id="svg_39" opacity="0.25" stroke="#b2b2b2"/>
+ </g>
+ <g class="layer">
+  <title>Toay (Localidad)</title>
+  <circle fill="#ff0000" stroke-dasharray="null" stroke-linejoin="null" stroke-linecap="null" cx="135" cy="414" r="7" id="svg_66" opacity="0.25" stroke="#b2b2b2"/>
+ </g>
+ <g class="layer">
+  <title>Toay (Rural)</title>
+  <circle fill="#7fff00" stroke-dasharray="null" stroke-linejoin="null" stroke-linecap="null" cx="135" cy="434" r="7" id="svg_67" opacity="0.25" stroke="#b2b2b2"/>
+ </g>
+ <g class="layer">
+  <title>Villa Alonso Centro</title>
+  <path d="m281.42856,218.42857l18.57144,-15.42857l22.28571,-16.57143l1.71429,-1.14285l0.28571,37.14285l49.57144,0.42857l0,2.14285l-14.14285,2.42857l-20,7.42857l-11.71429,4.14285l-4.14285,1.71428l-5.85715,1.85715l-6.14285,1.28572l-8.28571,-0.57143l-1.42859,-4l-21.28571,-0.42857l0.57141,-20.42857l0,0.00001z" stroke-linecap="square" fill="#00ffff" id="svg_19" opacity="0.25" stroke="#b2b2b2"/>
+ </g>
+ <g class="layer">
+  <title>Villa Alonso Norte</title>
+  <path d="m281,178.28572l41.85715,0.28571l0.28571,1.85715l-3.57141,3.85715l-5.85715,4.42856l-9,7.85715l-5.57144,3.42857l-8.85715,7.28572l-5.71426,3.85713l-3.28574,2.57143l-0.28571,-35.42856l0,-0.00001z" stroke-linecap="square" fill="#00ff00" id="svg_17" opacity="0.25" stroke="#b2b2b2"/>
+ </g>
+ <g class="layer">
+  <title>Villa Elisa</title>
+  <path d="m248.14287,141l-0.57144,-50.85714l34.57143,0.28571l-1,50.71428l-4.71429,2.57143l-7.14285,0.71429l-10.28571,-1.28572l-10.85713,-2.14285l-0.00001,0z" stroke-linecap="square" fill="#ff00ff" id="svg_5" opacity="0.25" stroke="#b2b2b2"/>
+ </g>
+ <g class="layer">
+  <title>Villa Elvina</title>
+  <path d="m280.57144,240.14285l20.85712,-0.28571l1.57144,3.42857l9,1.28571l11.71429,-3.28571l-9.28574,26.85713l-33.57141,0.42859l-0.28571,-28.42859l0.00001,0.00001z" stroke-linecap="square" fill="#ffff00" id="svg_20" opacity="0.25" stroke="#b2b2b2"/>
+ </g>
+ <g class="layer">
+  <title>Villa Germinal</title>
+  <path d="m247.14287,117.71429l-0.28572,-43.85715l-44.85715,0l0.71428,37.14286l26.42857,0.85714l0.28572,6l17.71429,-0.14285l0.00001,0z" stroke-linecap="square" fill="#7fff00" id="svg_4" opacity="0.25" stroke="#b2b2b2"/>
+ </g>
+ <g class="layer">
+  <title>Villa Las Camelias</title>
+  <path d="m118.57143,277.42859l6.57143,-6.57144l3.99999,4.57141l5.71429,4.85715l8.85713,5.71429l7.71429,-3.42856l6.57143,-2.85715l8.28572,-9.42859l3.14285,-4.85715l23.14285,0.85715l-44.57143,42.85715l-29.42857,-31.71426l0.00002,0z" stroke-linecap="square" fill="#ff00ff" id="svg_56" opacity="0.25" stroke="#b2b2b2"/>
+ </g>
+ <g class="layer">
+  <title>Villa Martita</title>
+  <path d="m375.71429,226.57143l37.28571,-0.71428l0.57144,42.42856l-38.71429,-0.28571l0.85715,-41.42857l-0.00001,0z" stroke-linecap="square" fill="#00ff00" id="svg_23" opacity="0.25" stroke="#b2b2b2"/>
+ </g>
+ <g class="layer">
+  <title>Villa Navarro Sarmiento II</title>
+  <rect height="7.85714" width="25" y="270.71428" x="373.57143" stroke-linecap="square" fill="#ff00ff" id="svg_22" opacity="0.25" stroke="#b2b2b2"/>
+ </g>
+ <g class="layer">
+  <title>Villa Navarro Sarmiento y Villa Amalia</title>
+  <path d="m318.85715,268.28571l0.57141,-5.71426l4.85715,-15.85716l3.14285,-4.57143l25,-8.85713l19.28574,-6.42857l3.28571,0l-0.71429,40.14285l-2.14285,1.14285l-53.28571,0.14285l-0.00001,0z" stroke-linecap="square" fill="#ff00ff" id="svg_21" opacity="0.25" stroke="#b2b2b2"/>
+ </g>
+ <g class="layer">
+  <title>Villa Parque</title>
+  <path d="m195.42857,325.28571l-30,-30.57141l-15.85715,16l29.85715,31.14285l16,-16.57144z" stroke-linecap="square" fill="#ffff00" id="svg_48" opacity="0.25" stroke="#b2b2b2"/>
+ </g>
+ <g class="layer">
+  <title>Villa Santillan</title>
+  <path d="m238.28572,336.28571l-25,-26.14285l31.71428,-32l32,32.28571l-0.71429,15l-15.28571,14.14288l-7.42857,-6.85715l-2.71428,2.14285l-5.71429,-5.71429l-6.85713,7.14285l-0.00001,0z" stroke-linecap="square" fill="#00ffff" id="svg_31" opacity="0.25" stroke="#b2b2b2"/>
+ </g>
+ <g class="layer">
+  <title>Villa Santillan Oeste</title>
+  <path d="m182.57143,278.28571l11.57143,-11.42856l30.28572,30.14285l-11.71429,12.14285l-30.14285,-30.85715l-0.00001,0.00001z" stroke-linecap="square" fill="#ffff00" id="svg_28" opacity="0.25" stroke="#b2b2b2"/>
+ </g>
+ <g class="layer">
+  <title>Villa Tomas Mason Norte</title>
+  <path d="m246.57143,184.28572l-24.71428,2.57143l0,-44.28572l25.28571,-1.57143l-0.57143,43.28572z" stroke-linecap="square" fill="#56ffff" id="svg_8" opacity="0.25" stroke="#b2b2b2"/>
+ </g>
+ <g class="layer">
+  <title>Villa Tomas Mason Sur</title>
+  <path d="m221.85715,187.28572l0.14285,30l24.85715,-0.28572l0,-32.42857l-25,2.71429z" stroke-linecap="square" fill="#00ff00" id="svg_13" opacity="0.25" stroke="#b2b2b2"/>
+ </g>
+ <g class="layer">
+  <title>Villa Uhalde</title>
+  <path d="m247.28572,161.71429l0.42856,-20.57144l12.85716,2.85715l7.71426,0.85715l6.71429,-0.71429l2.42856,-0.14285l3.14288,7.42857l0.85712,4.71428l-0.28571,4l-33.85713,1.57144l0.00001,-0.00001z" stroke-linecap="square" fill="#7fff00" id="svg_7" opacity="0.25" stroke="#b2b2b2"/>
+ </g>
+ <g class="layer">
+  <title>Villa del Busto</title>
+  <path d="m247.57143,162.28572l33.57143,-2.14287l-0.85715,56l-6,3.28572l-6.57141,1.42857l-0.42859,1.85713l-10,0.28572l-0.28571,-6.14285l-9.71428,0.14285l0.28571,-54.71428l0,0.00001z" stroke-linecap="square" fill="#ffff00" id="svg_14" opacity="0.25" stroke="#b2b2b2"/>
+ </g>
+ <g class="layer">
+  <title>Zona Centro</title>
+  <path d="m185.42857,266l94.71428,1.57144l-0.14285,-50.42859l-5.42856,2.85715l-6.42859,1l-0.28571,2.42857l-46.85715,-0.42857l-6.85715,1.85715l-6,2.42857l-7.42857,5l-5.85713,9.14285l-3.28572,10.42857l-6.14285,14.14285l0,0.00001z" stroke-linecap="square" fill="#ff0000" id="svg_25" opacity="0.25" stroke="#b2b2b2"/>
+ </g>
+ <g class="layer">
+  <title>Zona Norte</title>
+  <path d="m221.28572,206l-15.57144,0.85715l0,-42l15.57144,-1.28572l0,42.42857z" stroke-linecap="square" fill="#ffff00" id="svg_11" opacity="0.25" stroke="#b2b2b2"/>
+ </g>
+ <g class="layer">
+  <title>Zona Oeste Quintas</title>
+  <path d="m204.85715,207l-12.71429,0.28572l0.57143,-9.85715l-15.14285,1.57143l-0.71428,-31.28572l29,-2.85713l-1,42.14285l-0.00001,0z" stroke-linecap="square" fill="#00ffff" id="svg_12" opacity="0.25" stroke="#b2b2b2"/>
+ </g>
+ <g class="layer">
+  <title>Zona Quintas Sur</title>
+  <path d="m98.85715,325.71429l-43.14286,22.57141l-42.28572,-40.57141l0,-41.42859l30,0l55.42858,59.42859z" stroke-linecap="square" fill="#00ff00" id="svg_53" opacity="0.25" stroke="#b2b2b2"/>
+ </g>
+ <g class="layer">
+  <title>Zona Rural Ataliva Roca</title>
+  <circle fill="#7fff00" stroke-dasharray="null" stroke-linejoin="null" stroke-linecap="null" cx="298" cy="68" r="6" id="svg_68" opacity="0.25" stroke="#b2b2b2"/>
+ </g>
+ <g class="layer">
+  <title>Zona Rural Barrancas Coloradas</title>
+  <circle fill="#ff7f00" stroke-dasharray="null" stroke-linejoin="null" stroke-linecap="null" cx="298" cy="81" r="6" id="svg_69" opacity="0.25" stroke="#b2b2b2"/>
+ </g>
+ <g class="layer">
+  <title>Zona Rural Colonia Lagos</title>
+  <circle fill="#00ffff" stroke-dasharray="null" stroke-linejoin="null" stroke-linecap="null" cx="298" cy="94" r="6" id="svg_70" opacity="0.25" stroke="#b2b2b2"/>
+ </g>
+ <g class="layer">
+  <title>Zona Rural Potrillo Oscuro</title>
+  <circle fill="#ffff00" stroke-dasharray="null" stroke-linejoin="null" stroke-linecap="null" cx="298" cy="107" r="6" id="svg_71" opacity="0.25" stroke="#b2b2b2"/>
+ </g>
+ <g class="layer">
+  <title>Zona Rural Winifreda</title>
+  <circle fill="#007f7f" stroke-dasharray="null" stroke-linejoin="null" stroke-linecap="null" cx="298" cy="130" r="6" id="svg_72" opacity="0.25" stroke="#b2b2b2"/>
+ </g>
+ <g class="layer">
+  <title>Zona Sur</title>
+  <circle fill="#000000" stroke-dasharray="null" stroke-linejoin="null" stroke-linecap="null" cx="22" cy="174" r="6" id="svg_78" opacity="0.25" stroke="#b2b2b2"/>
+ </g>
+ <g class="layer">
+  <title>Zona Norte</title>
+  <circle fill="#00ff7f" stroke-dasharray="null" stroke-linejoin="null" stroke-linecap="null" cx="22" cy="186" r="6" id="svg_78" opacity="0.25" stroke="#b2b2b2"/>
+ </g>
+ <g class="layer">
+  <title>Zona Este</title>
+  <circle fill="#0000ff" stroke-dasharray="null" stroke-linejoin="null" stroke-linecap="null" cx="22" cy="198" r="6" id="svg_78" opacity="0.25" stroke="#b2b2b2"/>
+ </g>
+ <g class="layer">
+  <title>Zona Oeste</title>
+  <circle stroke="#b2b2b2" opacity="0.25" id="svg_78" r="6" cy="210" cx="22" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" fill="#7f3f00"/>
+ </g>
+ <g class="layer">
+  <title>Chadileuvu</title>
+  <circle fill="#ff00ff" stroke-dasharray="null" stroke-linejoin="null" stroke-linecap="null" cx="22" cy="222" r="6" id="svg_78" opacity="0.25" stroke="#b2b2b2"/>
+ </g>
+ <g class="layer">
+  <title>Mandela</title>
+  <path id="svg_79" d="m371.14062,323.71878l27.95313,-0.56253l0.42188,54l-28.6875,0.84375l0.31249,-54.28122z" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke="#000000" fill="#7f3f00"/>
+ </g>
+ <g class="layer">
+  <title>altos de payun</title>
+  <circle stroke="#b2b2b2" opacity="0.25" id="svg_78" r="6" cy="417" cx="310.875" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" fill="#0000ff"/>
+ </g>
+ <g class="layer">
+  <title>zona oeste laguna</title>
+  <path id="svg_80" d="m113.90233,231.77638l12.81837,1.49413l18.98438,-11.62793l10.91601,-0.71192l1.89844,-15.66211l-15.66211,-8.30566l-9.72949,-5.45801l-22.06934,27.52735" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke-width="null" stroke="#b2b2b2" fill="#0000ff"/>
+ </g>
+ <g class="layer">
+  <title>ara san juan</title>
+  <path fill="#bfbfbf" stroke="#000000" d="m307.43749,379.125l24.43751,-0.5625c0,0 -0.25001,21.9375 -0.25001,21.9375c0,0 -26.4375,1.125 -26.74999,0.5625c-0.31249,-0.5625 2.56249,-21.9375 2.56249,-21.9375z" id="svg_81"/>
+ </g>
+ <g class="layer">
+  <title>Procrear</title>
+  <path id="svg_82" d="m324.866206,186.688487l14.954106,-0.404308l-0.237305,35.121094l-14.475586,0.237305l-0.241216,-34.954091l0.000001,0z" stroke="#000000" fill="#007f3f"/>
+ </g>
+</svg>
