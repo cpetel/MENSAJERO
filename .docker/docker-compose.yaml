@@ -4,7 +4,7 @@ services:
       context: app
       target: dev-envs
     ports: 
-      - '8085:80'
+      - '80:80'
     volumes:
       - /var/run/docker.sock:/var/run/docker.sock
       - ./app:/var/www/html/
