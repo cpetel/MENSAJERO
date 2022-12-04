@@ -121,7 +121,6 @@ function callback() {
     if (req.readyState == 4) {
         if (req.status == 200) {
             parseMessages(req.responseXML);
-            
         }
     }
 }
@@ -322,11 +321,8 @@ function parseMessages(responseXML) {
 				  break;
 
 				case "accion":
-                    
 					var ac=decodifica(getNodeText(id));
-                    console.log(ac);
-                    eval(ac);
-                    console.log(eval(ac));
+					eval(ac);
 				  break;
 
 				default:
