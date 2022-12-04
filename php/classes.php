@@ -33,9 +33,21 @@ class barrio
 
 	public function getWAV() {
 		$nm=strtolower(html_entity_decode($this->nombre));
+		agregaAccion("skjdlaooo".'console.log("'.$nm.'");');
 		$nw="";
-		for ($i = 0; $i <= strlen($nm); $i++) {
+		for ($i = 0; $i < strlen($nm); $i++) {
 			$c = substr($nm,$i,1);
+			
+
+			if (empty($c)) {
+			//$mensajederror2 = 'console.log("'.$nm.'");';
+			$mensajederror1 = 'console.log("'.$this->nombre." ".$i." - ".$nw.'");';
+			
+			agregaAccion($mensajederror1);
+			//agregaAccion($mensajederror2);
+			}
+
+
 			if (strpos("; abcdefghijklmnopqrstuvwxyz0123456789.-",$c) ) $nw .= $c;
 		}
 		return $nw;

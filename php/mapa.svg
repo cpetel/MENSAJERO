@@ -6,7 +6,7 @@
  </g>
  <g>
   <title>De Las Artes</title>
-  <rect id="svg_1" height="49" width="20" y="2" x="287" opacity="0.25" stroke-linecap="square" stroke-dasharray="2,2" stroke="#7fff00" fill="#aaaaff"onclick="daleSVG(evt,this)"/>
+  <rect id="svg_1" height="49" width="20" y="2" x="287" opacity="0.25" stroke-linecap="square" stroke-dasharray="2,2" stroke="#ff08c1" fill="#aaaaff"onclick="daleSVG(evt,this)"/>
  </g>
  <g display="inline">
   <title>Laguna</title>

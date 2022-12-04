@@ -36,10 +36,12 @@ function agregaRespuesta($tipo, $a)
 }
 function estado()
 {
-	if (strpos(shell_exec(stripslashes("asterisk -nrx \"database get DAYNIGHT C1\"")), "DAY") === false) {
-		return "EMERGENCIA";
-	}
-	return "NORMAL";
+	#//TESTMODEif (strpos(shell_exec(stripslashes("asterisk -nrx \"database get DAYNIGHT C1\"")), "DAY") === false) {
+	#//TESTMODE	return "EMERGENCIA";
+	#//TESTMODE}
+	#//TESTMODE 
+	return "EMERGENCIA";
+	#//TESTMODE  return "NORMAL";
 }
 
 function agregaAccion($a)
@@ -204,8 +206,8 @@ function tocoBoton($cual)
 				copy($salida, "sonidos/anuncio.wav");
 
 				// entra en emergencia
-				$p = popen(stripslashes("asterisk -nrx \"database put DAYNIGHT C1 NIGHT\""), "r");
-				pclose($p);
+				//TESTMODE$p = popen(stripslashes("asterisk -nrx \"database put DAYNIGHT C1 NIGHT\""), "r");
+				//TESTMODEpclose($p);
 				logeo("Modo emergencia. audio=" . $logaudio);
 
 				// copia archivos
@@ -238,8 +240,8 @@ function tocoBoton($cual)
 				copy("sonidos/MSG-Generico-E-original.wav", "sonidos/msg-emergencia.wav");
 
 				// sale de emergencia
-				$p = popen(stripslashes("asterisk -nrx \"database put DAYNIGHT C1 DAY\""), "r");
-				pclose($p);
+				//TESTMODE$p = popen(stripslashes("asterisk -nrx \"database put DAYNIGHT C1 DAY\""), "r");
+				//TESTMODEpclose($p);
 
 				// debe haber un enlace al archivo anuncioIVRcorte en la carpeta sonidos
 				// llamado anuncio.wav
@@ -351,6 +353,11 @@ function creaWAV($a)
 			copy("sonidos/" . $w . ".wav", $salida);
 		} else {
 			//otros
+			if ($w = "" || is_null($w) || empty($w)){
+				
+				$mensajillo='console.log("helllo");'.$w;
+				agregaAccion($mensajillo);
+			}
 			$c = file_get_contents("sonidos/" . $w . ".wav", NULL, NULL, $nh);
 			file_put_contents($salida, $c, FILE_APPEND);
 		}
@@ -517,7 +524,7 @@ function arma_mapa()
 			$o = ' opacity="0.25" stroke-width="1" stroke="#b2b2b2" ';
 		}
 		$l = str_replace('onclick="daleSVG(evt,this)"', $o, $shape);
-		$l = str_replace(array("&aacute;", "&eacute;", "&iacute;", "&oacute;", "&uacute;", "&ntilde;"), array("a", "e", "i", "o", "u", "ñ"), $l);
+		$l = str_replace(array("a", "e", "i", "o", "u", "&ntilde;"), array("a", "e", "i", "o", "u", "ñ"), $l);
 		$r .= $l;
 	}
 	unset($ba);
@@ -562,7 +569,7 @@ function mensaje_web()
 
 	if ($cbelejidos > 0) {
 		// por barrios
-		$msj .= " En estos momentos hay un corte de energ&iacute;a";
+		$msj .= " En estos momentos hay un corte de energia";
 		if ($cbelejidos > 1) {
 			// plural
 			$msj .= "  que afecta a los barrios ";
@@ -576,7 +583,7 @@ function mensaje_web()
 		$audio = $audio + $abelejidos;
 	} else {
 		// corte sin especificar barrios
-		$msj .= " Actualmente hay un corte de energ&iacute;a";
+		$msj .= " Actualmente hay un corte de energia";
 		$audio[] = "corte";
 	}
 
@@ -606,7 +613,7 @@ function mensaje_web()
 	} else {
 		// No hay horario de reposición
 		//borra el aviso de mensaje caduco
-		unlink("/var/spool/asterisk/outgoing/llamaahora.call");
+		   unlink("/var/spool/asterisk/outgoing/llamaahora.call");
 	}
 
 
@@ -618,15 +625,16 @@ if (true) {
 	// 12-2012 se decide dejar siempre este final de mensaje
 	//if ($saludofinal)	{
 	$m = mensaje_web();
-	$m .= ". Si usted no est&aacute; en la zona o quiere informar un accidente o emergencia en la v&iacutea p&uacuteblica, aguarde y ser&aacute atendido...";
+	$m .= ". Si usted no esta en la zona o quiere informar un accidente o emergencia en la via publica, aguarde y sera atendido...";
 	$audio[] = "saludofinal";
 	$audio[] = "ComseraGrabada";
 	//}
 	$m .= ".";
 
-	//	agregaObjeto("mensaje",implode(",", $abelejidos));
-	//	agregaObjeto("mensaje",implode(",", $audio));
+		//agregaObjeto("mensaje",implode(",", $abelejidos));
+		//agregaObjeto("mensaje",implode(",", $audio));
 	agregaObjeto("mensaje", $m);
+	
 	creaWAV($audio);
 
 

@@ -20,7 +20,9 @@ $haymotivo = (isset($_SESSION['haymotivo'])) ? $_SESSION['haymotivo']: false;
 $hayhorario = (isset($_SESSION['hayhorario'])) ? $_SESSION['hayhorario']: false;
 
 $modo_produccion = (strpos( $_SERVER["SCRIPT_FILENAME"],"pruebas")===false);
-
+$mensajexx= $_SERVER["SCRIPT_FILENAME"];
+$mensajexx = 'console.log("'.$mensajexx.'");';
+agregaAccion($mensajexx);
 require_once("barrios.php");
 
 function codifica($x) { return bin2hex($x);}
@@ -129,7 +131,7 @@ global $hora,$minutos,$modo_produccion;
 		
 			copy("llama.call","llamaahora.call");
 			touch("llamaahora.call",$wt,$wt);
-			rename("llamaahora.call","/var/spool/asterisk/outgoing/llamaahora.call");
+			rename("llamaahora.call","/var/spool/osk/outgoing/llamaahora.call");
 	
 			// debe haber un enlace al archivo MSG-Generico-E.wav en la carpeta sonidos
 			// llamado msg-emergencia.wav
@@ -143,7 +145,7 @@ global $hora,$minutos,$modo_produccion;
 			    copy($salida,$logaudio);
 			
 			    // entra en emergencia
-			    $p=popen(stripslashes("asterisk -nrx \"database put DAYNIGHT C1 NIGHT\""),"r");
+			    $p=popen(stripslashes("osk -nrx \"database put DAYNIGHT C1 NIGHT\""),"r");
 			    pclose($p);
 			    logeo("Entrando en modo emergencia. audio=" .$logaudio);
 			} else {
@@ -157,7 +159,7 @@ global $hora,$minutos,$modo_produccion;
 		case 'sacaemergencia':
 
 	     	        //borra el aviso de mensaje caduco
-		        unlink("/var/spool/asterisk/outgoing/llamaahora.call");		    
+		        unlink("/var/spool/osk/outgoing/llamaahora.call");		    
 
 			// debe haber un enlace al archivo MSG-Generico-E.wav en la carpeta sonidos
 			// llamado msg-emergencia.wav
@@ -166,7 +168,7 @@ global $hora,$minutos,$modo_produccion;
 			    copy("sonidos/MSG-Generico-E-original.wav","sonidos/msg-emergencia.wav");
 
 			    // sale de emergencia
-			    $p=popen(stripslashes("asterisk -nrx \"database put DAYNIGHT C1 DAY\""),"r");
+			    $p=popen(stripslashes("osk -nrx \"database put DAYNIGHT C1 DAY\""),"r");
 			    pclose($p);
 			    logeo("Saliendo del modo emergencia.");
 			
@@ -449,7 +451,7 @@ if (true) {
 		
 	if ($cbelejidos>0) {
 			// por barrios
-			$m .= " En estos momentos hay un corte de energ&iacute;a";
+			$m .= " En estos momentos hay un corte de energia";
 			if ($cbelejidos>1) {
 				// plural
 				$m .= "  que afecta a los barrios ";
@@ -463,7 +465,7 @@ if (true) {
 			$audio = $audio + $abelejidos;
 	} else {
 		// corte sin especificar barrios
-		$m .= " Actualmente hay un corte de energ&iacute;a";
+		$m .= " Actualmente hay un corte de energia";
 		$audio[] = "corte";
 	}
 	
@@ -496,12 +498,12 @@ if (true) {
 	} else {
 		// No hay horario de reposición
 		    //borra el aviso de mensaje caduco
-		    unlink("/var/spool/asterisk/outgoing/llamaahora.call");		    
+		    unlink("/var/spool/osk/outgoing/llamaahora.call");		    
 	}
 
 	// 12-2012 se decide dejar siempre este final de mensaje
 	//if ($saludofinal)	{
-		$m .= ". Si usted no est&aacute; en la zona o quiere informar un accidente o emergencia en la v&iacutea p&uacuteblica, aguarde y ser&aacute atendido...";
+		$m .= ". Si usted no esta en la zona o quiere informar un accidente o emergencia en la via publica, aguarde y sera atendido...";
 		$audio[] = "saludofinal";
 		$audio[] = "ComseraGrabada";
 	//}
